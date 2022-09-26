@@ -48,3 +48,5 @@ De manière générale :
 - On utilisera le Pascal Case pour les noms de classes
 - Le Screaming Snake Case pour les noms de constante
 - Un mix de Snake ou Camel case pour les noms de fonctions et de variables en fonction du langage
+
+![](https://github.com/BTS-SIO-2022/cours-convention-de-nommage/blob/main/convention-nommage.png)
