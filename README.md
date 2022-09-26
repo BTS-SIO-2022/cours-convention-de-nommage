@@ -50,3 +50,10 @@ De manière générale :
 - Un mix de Snake ou Camel case pour les noms de fonctions et de variables en fonction du langage
 
 ![](https://github.com/BTS-SIO-2022/cours-convention-de-nommage/blob/main/convention-nommage.png)
+
+## Exemples de règles de codage
+
+- https://getbem.com/introduction/
+- https://peps.python.org/pep-0008/
+- https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+- https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-1.1/xzf533w0(v=vs.71)
